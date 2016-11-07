@@ -1,8 +1,8 @@
-# swift-coreData-intro
+#### CORE DATA :blue_heart:
 
 
 
-1. PersistentContainer
+PersistentContainer
 
 ```
     lazy var persistentContainer: NSPersistentContainer = {
@@ -19,7 +19,7 @@
 
 ```
 
-2. SaveContext 
+SaveContext 
 
 ```
 
